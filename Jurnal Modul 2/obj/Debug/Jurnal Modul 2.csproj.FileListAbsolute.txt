@@ -1,0 +1,11 @@
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\bin\Debug\Jurnal Modul 2.exe.config
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\bin\Debug\Jurnal Modul 2.exe
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\bin\Debug\Jurnal Modul 2.pdb
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\obj\Debug\Jurnal Modul 2.csproj.AssemblyReference.cache
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\obj\Debug\Jurnal Modul 2.csproj.SuggestedBindingRedirects.cache
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\obj\Debug\Jurnal_Modul_2.Form1.resources
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\obj\Debug\Jurnal_Modul_2.Properties.Resources.resources
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\obj\Debug\Jurnal Modul 2.csproj.GenerateResource.cache
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\obj\Debug\Jurnal Modul 2.csproj.CoreCompileInputs.cache
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\obj\Debug\Jurnal Modul 2.exe
+F:\Kuliah\Kuliah\Semester 4\Konstruksi Perangkat Lunak\praktikum_kpl\TP Modul 2\Jurnal Modul 2\Jurnal Modul 2\obj\Debug\Jurnal Modul 2.pdb
