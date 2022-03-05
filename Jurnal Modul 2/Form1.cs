@@ -24,7 +24,7 @@ namespace Jurnal_Modul_2
             number = float.Parse(textBox1.Text);
             textBox1.Clear();
             textBox1.Focus();
-            jumlah = 2;
+            jumlah = 1;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -88,7 +88,7 @@ namespace Jurnal_Modul_2
         {
             switch (jumlah)
             {
-                case 2:
+                case 1:
                     jawaban = number + float.Parse(textBox1.Text);
                     textBox1.Text = jawaban.ToString();
                     break;
